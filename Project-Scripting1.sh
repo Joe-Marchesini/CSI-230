@@ -93,7 +93,7 @@ cat > Project-ScriptingHTML.html <<- _EOF_
       $(shellPromptUsers)
       $(systemIP)
       $(systemUpTime)
-      $(something)
+      $(systemSpecs)
   </body>
   </html>
 _EOF_
