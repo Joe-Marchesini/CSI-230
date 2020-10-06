@@ -74,6 +74,7 @@ systemUpTime()
 # brief Outputs all useres with a shell prompt
 something()
 {
+  echo "<h2>Place Holder</h2>"
 }
 
 #HTML
