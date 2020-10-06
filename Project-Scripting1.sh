@@ -78,7 +78,7 @@ something()
 
 #HTML
 
-cat <<- _EOF_
+cat > Project-ScriptingHTML.html <<- _EOF_
   <html>
   <head>
       <title>$(title)</title>
@@ -86,6 +86,12 @@ cat <<- _EOF_
 
   <body>
       $(systemInfo)
+      $(freeMemory)
+      $(diskInfo)
+      $(shellPromptUsers)
+      $(systemIP)
+      $(systemUpTime)
+      $(something)
   </body>
   </html>
 _EOF_
