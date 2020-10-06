@@ -82,10 +82,11 @@ something()
 cat > Project-ScriptingHTML.html <<- _EOF_
   <html>
   <head>
-      <title>$(title)</title>
+      <title>"Project - Scripting 1"</title>
   </head>
 
   <body>
+      $(title)
       $(systemInfo)
       $(freeMemory)
       $(diskInfo)
