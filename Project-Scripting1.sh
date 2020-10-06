@@ -38,9 +38,9 @@ diskInfo()
 # brief Outputs all useres with a shell prompt
 shellPromptUsers()
 {
-  echo "<h2>System Users</h2>"
+  echo "<h2>System User</h2>"
   echo "<pre>"
-  w
+  id
   echo "<pre>"
 }
 
@@ -68,10 +68,13 @@ systemUpTime()
   echo "<pre>"
 }
 
-# brief Outputs all useres with a shell prompt
-something()
+# brief Outputs system specs
+systemSpecs()
 {
-  echo "<h2>Place Holder</h2>"
+  echo "<h2>System Specs</h2>"
+  echo "<pre>"
+  lshw -short
+  echo "<pre>"
 }
 
 #HTML
