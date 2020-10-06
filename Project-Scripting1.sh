@@ -20,7 +20,7 @@ systemInfo()
 # brief Outputs what memory is free
 freeMemory()
 {
-  echo "<h2>System Information</h2>"
+  echo "<h2>Free Space avalible</h2>"
   echo "<pre>"
   free -m
   echo "</pre>"
