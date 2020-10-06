@@ -56,9 +56,7 @@ systemIP()
 # brief Outputs title, username, and timestamp
 title()
 {
-  echo "<h3>Project Scripting 1 | " date
-  echo " | " whoami
-  echo "</h3>"
+  echo "<h3>Project Scripting 1 | $(whoami) | $(date) </h3>"
 }
 
 # brief Outputs system uptime, based on "Writing Shell Scripts" documentation
