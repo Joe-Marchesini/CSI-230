@@ -56,10 +56,9 @@ systemIP()
 # brief Outputs title, username, and timestamp
 title()
 {
-  echo "<h3>Project Scripting 1 | </h3>"
-  date
-  echo "<h3> | </h3>"
-  whoami
+  echo "<h3>Project Scripting 1 | " date
+  echo " | " whoami
+  echo "</h3>"
 }
 
 # brief Outputs system uptime, based on "Writing Shell Scripts" documentation
@@ -82,7 +81,7 @@ something()
 cat > Project-ScriptingHTML.html <<- _EOF_
   <html>
   <head>
-      <title>"Project - Scripting 1"</title>
+      <title>Project - Scripting 1</title>
   </head>
 
   <body>
