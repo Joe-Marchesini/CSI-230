@@ -1,0 +1,28 @@
+#!/bin/bash
+
+# file Project-Scripting1.sh
+# brief  First scripting project 
+# author Joseph.Marchesini
+# Project - Scripting 1
+# date 10/5/2020
+
+#Functions
+
+# Comment about each function...
+linuxAndSystemInfo()
+{
+
+}
+
+#!/bin/bash
+
+# file commenting.sh
+# brief  Our First Script with commenting for the file and functions 
+# author bilbo.baggins
+# lecture 5.1 comments 
+# date 7/8/2020
+
+#functions
+
+# brief Calculates the difference between today and 8/31/2020 and reports
+# the number of days until the Fall Semester Begins
