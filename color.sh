@@ -10,23 +10,23 @@ read -p "What is your favorit color (red, green, blue, yellow or magenta)?" colo
 color=${color^^}
 
 case ${color} in
-  ${color} = "RED")
+  "RED")
     selected_color=$red
     ;;
 
-  ${color} = "BLUE")
+  "BLUE")
     selected_color=$blue
     ;;
 
-  ${color} = "GREEN")
+  "GREEN")
     selected_color=$green
     ;;
     
-  ${color} = "YELLOW")
+  "YELLOW")
     selected_color=$yellow
     ;;
     
-  ${color} = "MAGENTA")
+  "MAGENTA")
     selected_color=$magenta
     ;;
 
