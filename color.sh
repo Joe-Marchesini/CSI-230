@@ -36,4 +36,4 @@ case ${color} in
     ;;
 esac
 
-echo "${selected_color}Your selected color is ${color}${default}"
+echo -e "${selected_color}Your selected color is ${color}${default}"
