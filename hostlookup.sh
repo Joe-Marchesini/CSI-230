@@ -1,5 +1,9 @@
 #!/bin/bash
-#...
+# file hostlookup.sh
+# brief  Takes file input with host names and checks if they are valid hosts. 
+# author joeseph.marchesini
+# lab 6.2
+# date 10/15/2020
 
 usage()
 {
