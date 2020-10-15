@@ -1,5 +1,9 @@
 #!/bin/bash
-#...
+# file converter.sh
+# brief  Takes file input and converts to wither upper case or lower case. 
+# author joeseph.marchesini
+# lab 6.2
+# date 10/15/2020
 
 usage()
 {
