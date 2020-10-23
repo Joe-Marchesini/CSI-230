@@ -1,1 +1,11 @@
+Joe Marchesini Notes:
 
+10/22/2020:
+- Created nukeusers.sh without issue
+- Created emails.txt
+- Created mail.sh
+  Issues:
+  - Ran into an issue with usage() not poping up a message when -f wasnt used properly
+  - Struggled to find out how to randomly generate a password for a while until I found out the correct openssl command insed of the rsa key creation.
+  - Struggled to add user, password wouldnt work until I cound the openssl comand to fix that.
+  - Ran out of time to implement emailing, wasnt able to get it done.
