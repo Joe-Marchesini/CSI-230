@@ -1,0 +1,1 @@
+Thu Nov 12 20:45:28 2020 pop-os main[10972]: The kmlfile is:mykmlfile.csv and logfile is: mylogfile.txt
