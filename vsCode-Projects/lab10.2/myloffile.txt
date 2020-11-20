@@ -2,3 +2,5 @@ Thu Nov 12 22:54:55 2020 pop-os main[14110]: The kmlfile is:concap.csv and logfi
 Thu Nov 12 23:01:15 2020 pop-os main[14605]: The kmlfile is:concap.csv and logfile is: myloffile.txt
 Thu Nov 12 23:25:07 2020 pop-os main[16333]: The kmlfile is:concap.csv and logfile is: myloffile.txt
 Thu Nov 12 23:26:48 2020 pop-os main[16427]: The kmlfile is:concap.csv and logfile is: myloffile.txt
+Thu Nov 12 23:40:34 2020 pop-os main[16690]: The kmlfile is:concap.csv and logfile is: myloffile.txt
+Thu Nov 12 23:45:29 2020 pop-os main[16769]: The kmlfile is:concap.csv and logfile is: myloffile.txt
