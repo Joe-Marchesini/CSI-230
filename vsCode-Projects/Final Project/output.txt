@@ -1,0 +1,357 @@
+Total average days inbetween hurricanes: 242.727
+Average days inbetween hurricanes from 1900-1950: 246.558
+Average days inbetween hurricanes from 1952-1999: 236
+Average days inbetween hurricanes from 2003-2017: 254.55
+
+List of days inbetween each hurricane:
+Hurricane: Unnamed, category 4, in Texas, on 1900-Sep-09
+Days between hurricanes: 2209
+Hurricane: Unnamed, category 2, in Alabama, on 1906-Sep-27
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Florida, on 1906-Sep-27
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Mississippi, on 1906-Sep-27
+Days between hurricanes: 21
+Hurricane: Unnamed, category 3, in Florida, on 1906-Oct-18
+Days between hurricanes: 985
+Hurricane: Unnamed, category 2, in Texas, on 1909-Jun-29
+Days between hurricanes: 22
+Hurricane: Unnamed, category 3, in Texas, on 1909-Jul-21
+Days between hurricanes: 61
+Hurricane: Unnamed, category 3, in Louisiana, on 1909-Sep-20
+Days between hurricanes: 1
+Hurricane: Unnamed, category 2, in Mississippi, on 1909-Sep-21
+Days between hurricanes: 20
+Hurricane: Unnamed, category 3, in Florida, on 1909-Oct-11
+Days between hurricanes: 338
+Hurricane: Unnamed, category 2, in Texas, on 1910-Sep-14
+Days between hurricanes: 34
+Hurricane: Unnamed, category 2, in Florida, on 1910-Oct-18
+Days between hurricanes: 314
+Hurricane: Unnamed, category 2, in South Carolina, on 1911-Aug-28
+Days between hurricanes: 415
+Hurricane: Unnamed, category 2, in Texas, on 1912-Oct-16
+Days between hurricanes: 1035
+Hurricane: Unnamed, category 4, in Texas, on 1915-Aug-17
+Days between hurricanes: 43
+Hurricane: Unnamed, category 3, in Louisiana, on 1915-Sep-29
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Mississippi, on 1915-Sep-29
+Days between hurricanes: 280
+Hurricane: Unnamed, category 2, in Alabama, on 1916-Jul-05
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Florida, on 1916-Jul-05
+Days between hurricanes: 1
+Hurricane: Unnamed, category 3, in Mississippi, on 1916-Jul-06
+Days between hurricanes: 8
+Hurricane: Unnamed, category 2, in South Carolina, on 1916-Jul-14
+Days between hurricanes: 35
+Hurricane: Unnamed, category 4, in Texas, on 1916-Aug-18
+Days between hurricanes: 61
+Hurricane: Unnamed, category 2, in Alabama, on 1916-Oct-18
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Florida, on 1916-Oct-18
+Days between hurricanes: 346
+Hurricane: Unnamed, category 3, in Florida, on 1917-Sep-29
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Louisiana, on 1917-Sep-29
+Days between hurricanes: 312
+Hurricane: Unnamed, category 3, in Louisiana, on 1918-Aug-07
+Days between hurricanes: 399
+Hurricane: Unnamed, category 4, in Florida, on 1919-Sep-10
+Days between hurricanes: 4
+Hurricane: Unnamed, category 3, in Texas, on 1919-Sep-14
+Days between hurricanes: 373
+Hurricane: Unnamed, category 2, in Louisiana, on 1920-Sep-21
+Days between hurricanes: 399
+Hurricane: Unnamed, category 3, in Florida, on 1921-Oct-25
+Days between hurricanes: 1736
+Hurricane: Unnamed, category 2, in Florida, on 1926-Jul-27
+Days between hurricanes: 25
+Hurricane: Unnamed, category 3, in Alabama, on 1926-Aug-21
+Days between hurricanes: 5
+Hurricane: Unnamed, category 3, in Louisiana, on 1926-Aug-26
+Days between hurricanes: 23
+Hurricane: Unnamed, category 4, in Florida, on 1926-Sep-18
+Days between hurricanes: 690
+Hurricane: Unnamed, category 2, in Florida, on 1928-Aug-08
+Days between hurricanes: 40
+Hurricane: Unnamed, category 4, in Florida, on 1928-Sep-17
+Days between hurricanes: 376
+Hurricane: Unnamed, category 3, in Florida, on 1929-Sep-28
+Days between hurricanes: 1051
+Hurricane: Unnamed, category 4, in Texas, on 1932-Aug-14
+Days between hurricanes: 358
+Hurricane: Unnamed, category 2, in Texas, on 1933-Aug-07
+Days between hurricanes: 28
+Hurricane: Unnamed, category 3, in Florida, on 1933-Sep-04
+Days between hurricanes: 1
+Hurricane: Unnamed, category 3, in Texas, on 1933-Sep-05
+Days between hurricanes: 284
+Hurricane: Unnamed, category 2, in Louisiana, on 1934-Jun-16
+Days between hurricanes: 39
+Hurricane: Unnamed, category 2, in Texas, on 1934-Jul-25
+Days between hurricanes: 405
+Hurricane: Unnamed, category 5, in Florida, on 1935-Sep-03
+Days between hurricanes: 62
+Hurricane: Unnamed, category 2, in Florida, on 1935-Nov-04
+Days between hurricanes: 270
+Hurricane: Unnamed, category 2, in Florida, on 1936-Jul-31
+Days between hurricanes: 782
+Hurricane: Unnamed, category 3, in Massachusetts, on 1938-Sep-21
+Days between hurricanes: 0
+Hurricane: Unnamed, category 3, in New York, on 1938-Sep-21
+Days between hurricanes: 0
+Hurricane: Unnamed, category 3, in Rhode Island, on 1938-Sep-21
+Days between hurricanes: 0
+Hurricane: 1938 New England hurricane, category 5, in Connecticut, on 1938-Sep-21
+Days between hurricanes: 686
+Hurricane: Unnamed, category 2, in Louisiana, on 1940-Aug-07
+Days between hurricanes: 1
+Hurricane: Unnamed, category 2, in Texas, on 1940-Aug-08
+Days between hurricanes: 3
+Hurricane: Unnamed, category 2, in South Carolina, on 1940-Aug-11
+Days between hurricanes: 408
+Hurricane: Unnamed, category 3, in Texas, on 1941-Sep-23
+Days between hurricanes: 13
+Hurricane: Unnamed, category 2, in Florida, on 1941-Oct-06
+Days between hurricanes: 328
+Hurricane: Unnamed, category 3, in Texas, on 1942-Aug-30
+Days between hurricanes: 331
+Hurricane: Unnamed, category 2, in Texas, on 1943-Jul-27
+Days between hurricanes: 415
+Hurricane: Unnamed, category 2, in North Carolina, on 1944-Sep-14
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Virginia, on 1944-Sep-14
+Days between hurricanes: 1
+Hurricane: Unnamed, category 2, in New York, on 1944-Sep-15
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Rhode Island, on 1944-Sep-15
+Days between hurricanes: 0
+Hurricane: 1944 Great Atlantic Hurricane, category 4, in Connecticut, on 1944-Sep-15
+Days between hurricanes: 34
+Hurricane: Unnamed, category 3, in Florida, on 1944-Oct-19
+Days between hurricanes: 312
+Hurricane: Unnamed, category 2, in Texas, on 1945-Aug-27
+Days between hurricanes: 19
+Hurricane: Unnamed, category 3, in Florida, on 1945-Sep-15
+Days between hurricanes: 732
+Hurricane: Unnamed, category 4, in Florida, on 1947-Sep-17
+Days between hurricanes: 2
+Hurricane: Unnamed, category 2, in Louisiana, on 1947-Sep-19
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in Mississippi, on 1947-Sep-19
+Days between hurricanes: 26
+Hurricane: Unnamed, category 2, in Georgia, on 1947-Oct-15
+Days between hurricanes: 0
+Hurricane: Unnamed, category 2, in South Carolina, on 1947-Oct-15
+Days between hurricanes: 342
+Hurricane: Unnamed, category 4, in Florida, on 1948-Sep-21
+Days between hurricanes: 14
+Hurricane: Unnamed, category 2, in Florida, on 1948-Oct-05
+Days between hurricanes: 325
+Hurricane: Unnamed, category 4, in Florida, on 1949-Aug-26
+Days between hurricanes: 39
+Hurricane: Unnamed, category 2, in Texas, on 1949-Oct-04
+Days between hurricanes: 336
+Hurricane: Easy, category 3, in Florida, on 1950-Sep-05
+Days between hurricanes: 43
+Hurricane: King, category 4, in Florida, on 1950-Oct-18
+Days between hurricanes: 684
+Hurricane: Hurricane Able, category 2, in Connecticut, on 1952-Sep-01
+Days between hurricanes: 729
+Hurricane: Carol, category 3, in New York, on 1954-Aug-31
+Days between hurricanes: 0
+Hurricane: Carol, category 2, in North Carolina, on 1954-Aug-31
+Days between hurricanes: 0
+Hurricane: Carol, category 3, in Rhode Island, on 1954-Aug-31
+Days between hurricanes: 0
+Hurricane: Hurricane Carol, category 3, in Connecticut, on 1954-Aug-31
+Days between hurricanes: 11
+Hurricane: Edna, category 3, in Massachusetts, on 1954-Sep-11
+Days between hurricanes: 0
+Hurricane: Hurricane Edna, category 3, in Connecticut, on 1954-Sep-11
+Days between hurricanes: 34
+Hurricane: Hazel, category 2, in Maryland, on 1954-Oct-15
+Days between hurricanes: 0
+Hurricane: Hazel, category 4, in North Carolina, on 1954-Oct-15
+Days between hurricanes: 0
+Hurricane: Hazel, category 4, in South Carolina, on 1954-Oct-15
+Days between hurricanes: 301
+Hurricane: Connie, category 3, in North Carolina, on 1955-Aug-12
+Days between hurricanes: 6
+Hurricane: Hurricane Diane, category 3, in Connecticut, on 1955-Aug-18
+Days between hurricanes: 32
+Hurricane: Ione, category 3, in North Carolina, on 1955-Sep-19
+Days between hurricanes: 371
+Hurricane: Flossy, category 2, in Louisiana, on 1956-Sep-24
+Days between hurricanes: 276
+Hurricane: Audrey, category 4, in Louisiana, on 1957-Jun-27
+Days between hurricanes: 0
+Hurricane: Audrey, category 4, in Texas, on 1957-Jun-27
+Days between hurricanes: 457
+Hurricane: Helene, category 3, in North Carolina, on 1958-Sep-27
+Days between hurricanes: 367
+Hurricane: Gracie, category 3, in South Carolina, on 1959-Sep-29
+Days between hurricanes: 347
+Hurricane: Donna, category 4, in Florida, on 1960-Sep-10
+Days between hurricanes: 2
+Hurricane: Donna, category 2, in New York, on 1960-Sep-12
+Days between hurricanes: 0
+Hurricane: Donna, category 3, in North Carolina, on 1960-Sep-12
+Days between hurricanes: 0
+Hurricane: Donna, category 2, in Rhode Island, on 1960-Sep-12
+Days between hurricanes: 0
+Hurricane: Hurricane Donna, category 5, in Connecticut, on 1960-Sep-12
+Days between hurricanes: 364
+Hurricane: Carla, category 4, in Texas, on 1961-Sep-11
+Days between hurricanes: 15
+Hurricane: Hurricane Esther, category 4, in Connecticut, on 1961-Sep-26
+Days between hurricanes: 1066
+Hurricane: Cleo, category 2, in Florida, on 1964-Aug-27
+Days between hurricanes: 14
+Hurricane: Dora, category 2, in Florida, on 1964-Sep-10
+Days between hurricanes: 23
+Hurricane: Hilda, category 3, in Louisiana, on 1964-Oct-03
+Days between hurricanes: 11
+Hurricane: Isbell, category 2, in Florida, on 1964-Oct-14
+Days between hurricanes: 329
+Hurricane: Betsy, category 3, in Florida, on 1965-Sep-08
+Days between hurricanes: 2
+Hurricane: Betsy, category 3, in Louisiana, on 1965-Sep-10
+Days between hurricanes: 272
+Hurricane: Alma, category 2, in Florida, on 1966-Jun-09
+Days between hurricanes: 4
+Hurricane: Hurricane Alma, category 3, in Connecticut, on 1966-Jun-13
+Days between hurricanes: 464
+Hurricane: Beulah, category 3, in Texas, on 1967-Sep-20
+Days between hurricanes: 395
+Hurricane: Gladys, category 2, in Florida, on 1968-Oct-19
+Days between hurricanes: 302
+Hurricane: Camille, category 5, in Louisiana, on 1969-Aug-17
+Days between hurricanes: 1
+Hurricane: Camille, category 5, in Mississippi, on 1969-Aug-18
+Days between hurricanes: 350
+Hurricane: Celia, category 3, in Texas, on 1970-Aug-03
+Days between hurricanes: 409
+Hurricane: Edith, category 2, in Louisiana, on 1971-Sep-16
+Days between hurricanes: 1088
+Hurricane: Carmen, category 3, in Louisiana, on 1974-Sep-08
+Days between hurricanes: 380
+Hurricane: Eloise, category 3, in Florida, on 1975-Sep-23
+Days between hurricanes: 322
+Hurricane: Hurricane Belle, category 3, in Connecticut, on 1976-Aug-10
+Days between hurricanes: 1119
+Hurricane: David, category 2, in Florida, on 1979-Sep-03
+Days between hurricanes: 1
+Hurricane: David, category 2, in Georgia, on 1979-Sep-04
+Days between hurricanes: 0
+Hurricane: David, category 2, in South Carolina, on 1979-Sep-04
+Days between hurricanes: 9
+Hurricane: Frederic, category 3, in Alabama, on 1979-Sep-13
+Days between hurricanes: 0
+Hurricane: Frederic, category 3, in Mississippi, on 1979-Sep-13
+Days between hurricanes: 332
+Hurricane: Allen, category 3, in Texas, on 1980-Aug-10
+Days between hurricanes: 1103
+Hurricane: Alicia, category 3, in Texas, on 1983-Aug-18
+Days between hurricanes: 392
+Hurricane: Diana, category 2, in North Carolina, on 1984-Sep-13
+Days between hurricanes: 353
+Hurricane: Elena, category 3, in Florida, on 1985-Sep-01
+Days between hurricanes: 1
+Hurricane: Elena, category 3, in Alabama, on 1985-Sep-02
+Days between hurricanes: 0
+Hurricane: Elena, category 3, in Mississippi, on 1985-Sep-02
+Days between hurricanes: 25
+Hurricane: Gloria, category 2, in New Hampshire, on 1985-Sep-27
+Days between hurricanes: 0
+Hurricane: Gloria, category 3, in New York, on 1985-Sep-27
+Days between hurricanes: 0
+Hurricane: Gloria, category 3, in North Carolina, on 1985-Sep-27
+Days between hurricanes: 0
+Hurricane: Hurricane Gloria, category 4, in Connecticut, on 1985-Sep-27
+Days between hurricanes: 55
+Hurricane: Kate, category 2, in Florida, on 1985-Nov-21
+Days between hurricanes: 1401
+Hurricane: Hugo, category 4, in South Carolina, on 1989-Sep-22
+Days between hurricanes: 696
+Hurricane: Bob, category 2, in Massachusetts, on 1991-Aug-19
+Days between hurricanes: 0
+Hurricane: Bob, category 2, in New York, on 1991-Aug-19
+Days between hurricanes: 0
+Hurricane: Bob, category 2, in Rhode Island, on 1991-Aug-19
+Days between hurricanes: 0
+Hurricane: Hurricane Bob, category 3, in Connecticut, on 1991-Aug-19
+Days between hurricanes: 371
+Hurricane: Andrew, category 5, in Florida, on 1992-Aug-24
+Days between hurricanes: 2
+Hurricane: Andrew, category 3, in Louisiana, on 1992-Aug-26
+Days between hurricanes: 16
+Hurricane: Iniki, category 4, in Hawaii, on 1992-Sep-11
+Days between hurricanes: 354
+Hurricane: Emily, category 3, in North Carolina, on 1993-Aug-31
+Days between hurricanes: 702
+Hurricane: Erin, category 2, in Florida, on 1995-Aug-03
+Days between hurricanes: 62
+Hurricane: Opal, category 3, in Florida, on 1995-Oct-04
+Days between hurricanes: 282
+Hurricane: Bertha, category 2, in North Carolina, on 1996-Jul-12
+Days between hurricanes: 1
+Hurricane: Hurricane Bertha, category 3, in Connecticut, on 1996-Jul-13
+Days between hurricanes: 55
+Hurricane: Fran, category 3, in North Carolina, on 1996-Sep-06
+Days between hurricanes: 720
+Hurricane: Bonnie, category 2, in North Carolina, on 1998-Aug-27
+Days between hurricanes: 29
+Hurricane: Georges, category 2, in Florida, on 1998-Sep-25
+Days between hurricanes: 4
+Hurricane: Georges, category 2, in Mississippi, on 1998-Sep-29
+Days between hurricanes: 328
+Hurricane: Bret, category 3, in Texas, on 1999-Aug-23
+Days between hurricanes: 24
+Hurricane: Floyd, category 2, in North Carolina, on 1999-Sep-16
+Days between hurricanes: 0
+Hurricane: Hurricane Floyd, category 4, in Connecticut, on 1999-Sep-16
+Days between hurricanes: 32
+Hurricane: Irene, category 2, in North Carolina, on 1999-Oct-18
+Days between hurricanes: 1431
+Hurricane:   Isabel, category 2, in North Carolina, on 2003-Sep-18
+Days between hurricanes: 330
+Hurricane: Charley, category 4, in Florida, on 2004-Aug-13
+Days between hurricanes: 23
+Hurricane: Frances, category 2, in Florida, on 2004-Sep-05
+Days between hurricanes: 11
+Hurricane: Ivan, category 3, in Alabama, on 2004-Sep-16
+Days between hurricanes: 0
+Hurricane: Ivan, category 3, in Florida, on 2004-Sep-16
+Days between hurricanes: 10
+Hurricane: Jeanne, category 3, in Florida, on 2004-Sep-26
+Days between hurricanes: 287
+Hurricane: Dennis, category 3, in Florida, on 2005-Jul-10
+Days between hurricanes: 46
+Hurricane: Katrina, category 3, in Florida, on 2005-Aug-25
+Days between hurricanes: 4
+Hurricane: Katrina, category 3, in Alabama, on 2005-Aug-29
+Days between hurricanes: 0
+Hurricane: Katrina, category 3, in Louisiana, on 2005-Aug-29
+Days between hurricanes: 0
+Hurricane: Katrina, category 3, in Mississippi, on 2005-Aug-29
+Days between hurricanes: 26
+Hurricane: Rita, category 5, in Louisiana, on 2005-Sep-24
+Days between hurricanes: 0
+Hurricane: Rita, category 2, in Texas, on 2005-Sep-24
+Days between hurricanes: 30
+Hurricane: Wilma, category 3, in Florida, on 2005-Oct-24
+Days between hurricanes: 1043
+Hurricane: Gustav, category 2, in Louisiana, on 2008-Sep-01
+Days between hurricanes: 12
+Hurricane: Ike, category 2, in Texas, on 2008-Sep-13
+Days between hurricanes: 1079
+Hurricane: Hurricane Irene, category 3, in Connecticut, on 2011-Aug-28
+Days between hurricanes: 1041
+Hurricane: Arthur, category 2, in North Carolina, on 2014-Jul-04
+Days between hurricanes: 826
+Hurricane: Matthew, category 2, in Florida, on 2016-Oct-07
+Days between hurricanes: 323
+Hurricane: Harvey, category 4, in Texas, on 2017-Aug-26
